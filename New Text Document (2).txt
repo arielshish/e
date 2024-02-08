@@ -1,0 +1,307 @@
+Microsoft.Mashup.Host.Document.JavaScriptException: 'PopupEventSink' is undefined
+at Core.initialize (ms-pq://pq.microsoft.com/ts/Editor/Core.js:17:9)
+   at Anonymous function (ms-pq://pq.microsoft.com/Views/TaskPane/QueriesAndConnectionsTaskPane.htm:94:13)
+   at n.event.dispatch (ms-pq://pq.microsoft.com/opensource/jquery/jquery-2.2.4.js:3:7481)
+   at r.handle (ms-pq://pq.microsoft.com/opensource/jquery/jquery-2.2.4.js:3:5547)
+
+
+************** הרכבות שנטענו **************
+mscorlib
+   גירסת הרכבה: 4.0.0.0
+   גירסת Win32: 4.8.9195.0 built by: NET481REL1LAST_B
+   CodeBase: file:///C:/Windows/Microsoft.NET/Framework64/v4.0.30319/mscorlib.dll
+----------------------------------------
+Microsoft.Mashup.Client.Excel
+   גירסת הרכבה: 1.0.0.0
+   גירסת Win32: 2.124.628.0
+   CodeBase: file:///C:/Program%20Files/Microsoft%20Office/root/Office16/ADDINS/Microsoft%20Power%20Query%20for%20Excel%20Integrated/bin/Microsoft.Mashup.Client.Excel.dll
+----------------------------------------
+System
+   גירסת הרכבה: 4.0.0.0
+   גירסת Win32: 4.8.9214.0 built by: NET481REL1LAST_B
+   CodeBase: file:///C:/WINDOWS/Microsoft.Net/assembly/GAC_MSIL/System/v4.0_4.0.0.0__b77a5c561934e089/System.dll
+----------------------------------------
+Microsoft.Mashup.DocumentServices
+   גירסת הרכבה: 1.0.0.0
+   גירסת Win32: 2.124.628.0
+   CodeBase: file:///C:/Program%20Files/Microsoft%20Office/root/Office16/ADDINS/Microsoft%20Power%20Query%20for%20Excel%20Integrated/bin/Microsoft.Mashup.DocumentServices.DLL
+----------------------------------------
+Microsoft.Mashup.Client.UI
+   גירסת הרכבה: 1.0.0.0
+   גירסת Win32: 2.124.628.0
+   CodeBase: file:///C:/Program%20Files/Microsoft%20Office/root/Office16/ADDINS/Microsoft%20Power%20Query%20for%20Excel%20Integrated/bin/Microsoft.Mashup.Client.UI.DLL
+----------------------------------------
+Microsoft.Mashup.Document
+   גירסת הרכבה: 1.0.0.0
+   גירסת Win32: 2.124.628.0
+   CodeBase: file:///C:/Program%20Files/Microsoft%20Office/root/Office16/ADDINS/Microsoft%20Power%20Query%20for%20Excel%20Integrated/bin/Microsoft.Mashup.Document.DLL
+----------------------------------------
+Microsoft.MashupEngine
+   גירסת הרכבה: 1.0.0.0
+   גירסת Win32: 2.124.628.0
+   CodeBase: file:///C:/Program%20Files/Microsoft%20Office/root/Office16/ADDINS/Microsoft%20Power%20Query%20for%20Excel%20Integrated/bin/Microsoft.MashupEngine.DLL
+----------------------------------------
+Microsoft.Mashup.Shims
+   גירסת הרכבה: 1.0.0.0
+   גירסת Win32: 2.124.628.0
+   CodeBase: file:///C:/Program%20Files/Microsoft%20Office/root/Office16/ADDINS/Microsoft%20Power%20Query%20for%20Excel%20Integrated/bin/Microsoft.Mashup.Shims.DLL
+----------------------------------------
+System.Configuration
+   גירסת הרכבה: 4.0.0.0
+   גירסת Win32: 4.8.9037.0 built by: NET481REL1
+   CodeBase: file:///C:/WINDOWS/Microsoft.Net/assembly/GAC_MSIL/System.Configuration/v4.0_4.0.0.0__b03f5f7f11d50a3a/System.Configuration.dll
+----------------------------------------
+System.Core
+   גירסת הרכבה: 4.0.0.0
+   גירסת Win32: 4.8.9214.0 built by: NET481REL1LAST_B
+   CodeBase: file:///C:/WINDOWS/Microsoft.Net/assembly/GAC_MSIL/System.Core/v4.0_4.0.0.0__b77a5c561934e089/System.Core.dll
+----------------------------------------
+System.Xml
+   גירסת הרכבה: 4.0.0.0
+   גירסת Win32: 4.8.9037.0 built by: NET481REL1
+   CodeBase: file:///C:/WINDOWS/Microsoft.Net/assembly/GAC_MSIL/System.Xml/v4.0_4.0.0.0__b77a5c561934e089/System.Xml.dll
+----------------------------------------
+Microsoft.Mashup.Client.Models
+   גירסת הרכבה: 1.0.0.0
+   גירסת Win32: 2.124.628.0
+   CodeBase: file:///C:/Program%20Files/Microsoft%20Office/root/Office16/ADDINS/Microsoft%20Power%20Query%20for%20Excel%20Integrated/bin/Microsoft.Mashup.Client.Models.DLL
+----------------------------------------
+System.Drawing
+   גירסת הרכבה: 4.0.0.0
+   גירסת Win32: 4.8.9037.0 built by: NET481REL1
+   CodeBase: file:///C:/WINDOWS/Microsoft.Net/assembly/GAC_MSIL/System.Drawing/v4.0_4.0.0.0__b03f5f7f11d50a3a/System.Drawing.dll
+----------------------------------------
+Anonymously Hosted DynamicMethods Assembly
+   גירסת הרכבה: 0.0.0.0
+   גירסת Win32: 4.8.9195.0 built by: NET481REL1LAST_B
+   CodeBase: file:///C:/WINDOWS/Microsoft.Net/assembly/GAC_64/mscorlib/v4.0_4.0.0.0__b77a5c561934e089/mscorlib.dll
+----------------------------------------
+Microsoft.Mashup.Client.Packaging
+   גירסת הרכבה: 1.0.0.0
+   גירסת Win32: 2.124.628.0
+   CodeBase: file:///C:/Program%20Files/Microsoft%20Office/root/Office16/ADDINS/Microsoft%20Power%20Query%20for%20Excel%20Integrated/bin/Microsoft.Mashup.Client.Packaging.DLL
+----------------------------------------
+System.Web.Extensions
+   גירסת הרכבה: 4.0.0.0
+   גירסת Win32: 4.8.9214.0
+   CodeBase: file:///C:/WINDOWS/Microsoft.Net/assembly/GAC_MSIL/System.Web.Extensions/v4.0_4.0.0.0__31bf3856ad364e35/System.Web.Extensions.dll
+----------------------------------------
+Microsoft.Practices.Unity
+   גירסת הרכבה: 2.1.505.0
+   גירסת Win32: 2.1.505.2
+   CodeBase: file:///C:/Program%20Files/Microsoft%20Office/root/Office16/ADDINS/Microsoft%20Power%20Query%20for%20Excel%20Integrated/bin/Microsoft.Practices.Unity.DLL
+----------------------------------------
+Microsoft.Mashup.Document.resources
+   גירסת הרכבה: 1.0.0.0
+   גירסת Win32: 2.124.302.0
+   CodeBase: file:///C:/Program%20Files/Microsoft%20Office/root/Office16/ADDINS/Microsoft%20Power%20Query%20for%20Excel%20Integrated/bin/he/Microsoft.Mashup.Document.resources.DLL
+----------------------------------------
+Microsoft.Mashup.Client.Excel.resources
+   גירסת הרכבה: 1.0.0.0
+   גירסת Win32: 2.119.404.0
+   CodeBase: file:///C:/Program%20Files/Microsoft%20Office/root/Office16/ADDINS/Microsoft%20Power%20Query%20for%20Excel%20Integrated/bin/he/Microsoft.Mashup.Client.Excel.resources.DLL
+----------------------------------------
+System.Windows.Forms
+   גירסת הרכבה: 4.0.0.0
+   גירסת Win32: 4.8.9195.0 built by: NET481REL1LAST_B
+   CodeBase: file:///C:/WINDOWS/Microsoft.Net/assembly/GAC_MSIL/System.Windows.Forms/v4.0_4.0.0.0__b77a5c561934e089/System.Windows.Forms.dll
+----------------------------------------
+Newtonsoft.Json
+   גירסת הרכבה: 13.0.0.0
+   גירסת Win32: 13.0.3.27908
+   CodeBase: file:///C:/Program%20Files/Microsoft%20Office/root/Office16/ADDINS/Microsoft%20Power%20Query%20for%20Excel%20Integrated/bin/Newtonsoft.Json.DLL
+----------------------------------------
+System.Collections.Immutable
+   גירסת הרכבה: 5.0.0.0
+   גירסת Win32: 5.0.20.51904
+   CodeBase: file:///C:/Program%20Files/Microsoft%20Office/root/Office16/ADDINS/Microsoft%20Power%20Query%20for%20Excel%20Integrated/bin/System.Collections.Immutable.DLL
+----------------------------------------
+Microsoft.Mashup.Client.UI.Extension
+   גירסת הרכבה: 1.0.0.0
+   גירסת Win32: 2.124.628.0
+   CodeBase: file:///C:/Program%20Files/Microsoft%20Office/root/Office16/ADDINS/Microsoft%20Power%20Query%20for%20Excel%20Integrated/bin/Microsoft.Mashup.Client.UI.Extension.DLL
+----------------------------------------
+Microsoft.ProgramSynthesis
+   גירסת הרכבה: 1.0.0.0
+   גירסת Win32: 2.124.302.0
+   CodeBase: file:///C:/Program%20Files/Microsoft%20Office/root/Office16/ADDINS/Microsoft%20Power%20Query%20for%20Excel%20Integrated/bin/Microsoft.ProgramSynthesis.DLL
+----------------------------------------
+System.Runtime
+   גירסת הרכבה: 4.0.0.0
+   גירסת Win32: 4.8.9037.0
+   CodeBase: file:///C:/WINDOWS/Microsoft.Net/assembly/GAC_MSIL/System.Runtime/v4.0_4.0.0.0__b03f5f7f11d50a3a/System.Runtime.dll
+----------------------------------------
+System.Numerics
+   גירסת הרכבה: 4.0.0.0
+   גירסת Win32: 4.8.9037.0 built by: NET481REL1
+   CodeBase: file:///C:/WINDOWS/Microsoft.Net/assembly/GAC_MSIL/System.Numerics/v4.0_4.0.0.0__b77a5c561934e089/System.Numerics.dll
+----------------------------------------
+System.Xml.Linq
+   גירסת הרכבה: 4.0.0.0
+   גירסת Win32: 4.8.9037.0 built by: NET481REL1
+   CodeBase: file:///C:/WINDOWS/Microsoft.Net/assembly/GAC_MSIL/System.Xml.Linq/v4.0_4.0.0.0__b77a5c561934e089/System.Xml.Linq.dll
+----------------------------------------
+Microsoft.Mashup.OAuth
+   גירסת הרכבה: 1.0.0.0
+   גירסת Win32: 2.124.628.0
+   CodeBase: file:///C:/Program%20Files/Microsoft%20Office/root/Office16/ADDINS/Microsoft%20Power%20Query%20for%20Excel%20Integrated/bin/Microsoft.Mashup.OAuth.DLL
+----------------------------------------
+Microsoft.Mashup.ProviderShared
+   גירסת הרכבה: 1.0.0.0
+   גירסת Win32: 2.124.628.0
+   CodeBase: file:///C:/Program%20Files/Microsoft%20Office/root/Office16/ADDINS/Microsoft%20Power%20Query%20for%20Excel%20Integrated/bin/Microsoft.Mashup.ProviderShared.DLL
+----------------------------------------
+WindowsBase
+   גירסת הרכבה: 4.0.0.0
+   גירסת Win32: 4.8.9214.0 built by: NET481REL1LAST_B
+   CodeBase: file:///C:/WINDOWS/Microsoft.Net/assembly/GAC_MSIL/WindowsBase/v4.0_4.0.0.0__31bf3856ad364e35/WindowsBase.dll
+----------------------------------------
+Microsoft.Mashup.EventSource
+   גירסת הרכבה: 1.0.0.0
+   גירסת Win32: 2.124.628.0
+   CodeBase: file:///C:/Program%20Files/Microsoft%20Office/root/Office16/ADDINS/Microsoft%20Power%20Query%20for%20Excel%20Integrated/bin/Microsoft.Mashup.EventSource.DLL
+----------------------------------------
+mscorlib.resources
+   גירסת הרכבה: 4.0.0.0
+   גירסת Win32: 4.8.4084.0 built by: NET48REL1
+   CodeBase: file:///C:/WINDOWS/Microsoft.Net/assembly/GAC_MSIL/mscorlib.resources/v4.0_4.0.0.0_he_b77a5c561934e089/mscorlib.resources.dll
+----------------------------------------
+Microsoft.Mashup.Document.XmlSerializers
+   גירסת הרכבה: 1.0.0.0
+   גירסת Win32: 1.0.0.0
+   CodeBase: file:///C:/Program%20Files/Microsoft%20Office/root/Office16/ADDINS/Microsoft%20Power%20Query%20for%20Excel%20Integrated/bin/Microsoft.Mashup.Document.XmlSerializers.DLL
+----------------------------------------
+Microsoft.GeneratedCode
+   גירסת הרכבה: 1.0.0.0
+   גירסת Win32: 4.8.9037.0 built by: NET481REL1
+   CodeBase: file:///C:/WINDOWS/Microsoft.Net/assembly/GAC_MSIL/System.Xml/v4.0_4.0.0.0__b77a5c561934e089/System.Xml.dll
+----------------------------------------
+System.Runtime.Remoting
+   גירסת הרכבה: 4.0.0.0
+   גירסת Win32: 4.8.9214.0 built by: NET481REL1LAST_B
+   CodeBase: file:///C:/WINDOWS/Microsoft.Net/assembly/GAC_MSIL/System.Runtime.Remoting/v4.0_4.0.0.0__b77a5c561934e089/System.Runtime.Remoting.dll
+----------------------------------------
+Microsoft.Mashup.WebViews.Windows.EdgeChromium
+   גירסת הרכבה: 1.1.173.0
+   גירסת Win32: 1.1.173.0
+   CodeBase: file:///C:/Program%20Files/Microsoft%20Office/root/Office16/ADDINS/Microsoft%20Power%20Query%20for%20Excel%20Integrated/bin/Microsoft.Mashup.WebViews.Windows.EdgeChromium.DLL
+----------------------------------------
+Microsoft.Mashup.WebViews
+   גירסת הרכבה: 1.1.173.0
+   גירסת Win32: 1.1.173.0
+   CodeBase: file:///C:/Program%20Files/Microsoft%20Office/root/Office16/ADDINS/Microsoft%20Power%20Query%20for%20Excel%20Integrated/bin/Microsoft.Mashup.WebViews.DLL
+----------------------------------------
+Microsoft.Web.WebView2.Core
+   גירסת הרכבה: 1.0.1462.37
+   גירסת Win32: 1.0.1462.37
+   CodeBase: file:///C:/Program%20Files/Microsoft%20Office/root/Office16/ADDINS/Microsoft%20Power%20Query%20for%20Excel%20Integrated/bin/Microsoft.Web.WebView2.Core.DLL
+----------------------------------------
+Microsoft.Mashup.Client.Excel.Extensions
+   גירסת הרכבה: 1.0.0.0
+   גירסת Win32: 2.124.628.0
+   CodeBase: file:///C:/Program%20Files/Microsoft%20Office/root/Office16/ADDINS/Microsoft%20Power%20Query%20for%20Excel%20Integrated/bin/Microsoft.Mashup.Client.Excel.Extensions.DLL
+----------------------------------------
+Microsoft.MashupEngine.resources
+   גירסת הרכבה: 1.0.0.0
+   גירסת Win32: 2.124.302.0
+   CodeBase: file:///C:/Program%20Files/Microsoft%20Office/root/Office16/ADDINS/Microsoft%20Power%20Query%20for%20Excel%20Integrated/bin/he/Microsoft.MashupEngine.resources.DLL
+----------------------------------------
+Microsoft.MashupEngine.Library45
+   גירסת הרכבה: 1.0.0.0
+   גירסת Win32: 2.124.302.0
+   CodeBase: file:///C:/Program%20Files/Microsoft%20Office/root/Office16/ADDINS/Microsoft%20Power%20Query%20for%20Excel%20Integrated/bin/Microsoft.MashupEngine.Library45.DLL
+----------------------------------------
+System.Security
+   גירסת הרכבה: 4.0.0.0
+   גירסת Win32: 4.8.9037.0 built by: NET481REL1
+   CodeBase: file:///C:/WINDOWS/Microsoft.Net/assembly/GAC_MSIL/System.Security/v4.0_4.0.0.0__b03f5f7f11d50a3a/System.Security.dll
+----------------------------------------
+System.Web
+   גירסת הרכבה: 4.0.0.0
+   גירסת Win32: 4.8.9214.0 built by: NET481REL1LAST_B
+   CodeBase: file:///C:/WINDOWS/Microsoft.Net/assembly/GAC_64/System.Web/v4.0_4.0.0.0__b03f5f7f11d50a3a/System.Web.dll
+----------------------------------------
+Microsoft.Mashup.OleDbProvider
+   גירסת הרכבה: 1.0.0.0
+   גירסת Win32: 2.124.628.0
+   CodeBase: file:///C:/Program%20Files/Microsoft%20Office/root/Office16/ADDINS/Microsoft%20Power%20Query%20for%20Excel%20Integrated/bin/Microsoft.Mashup.OleDbProvider.DLL
+----------------------------------------
+Microsoft.GeneratedCode
+   גירסת הרכבה: 1.0.0.0
+   גירסת Win32: 4.8.9037.0 built by: NET481REL1
+   CodeBase: file:///C:/WINDOWS/Microsoft.Net/assembly/GAC_MSIL/System.Xml/v4.0_4.0.0.0__b77a5c561934e089/System.Xml.dll
+----------------------------------------
+Microsoft.GeneratedCode
+   גירסת הרכבה: 1.0.0.0
+   גירסת Win32: 4.8.9037.0 built by: NET481REL1
+   CodeBase: file:///C:/WINDOWS/Microsoft.Net/assembly/GAC_MSIL/System.Xml/v4.0_4.0.0.0__b77a5c561934e089/System.Xml.dll
+----------------------------------------
+System.Data.SqlXml
+   גירסת הרכבה: 4.0.0.0
+   גירסת Win32: 4.8.9037.0 built by: NET481REL1
+   CodeBase: file:///C:/WINDOWS/Microsoft.Net/assembly/GAC_MSIL/System.Data.SqlXml/v4.0_4.0.0.0__b77a5c561934e089/System.Data.SqlXml.dll
+----------------------------------------
+Microsoft.Mashup.ScriptDom
+   גירסת הרכבה: 1.0.0.0
+   גירסת Win32: 2.40.4554.261
+   CodeBase: file:///C:/Program%20Files/Microsoft%20Office/root/Office16/ADDINS/Microsoft%20Power%20Query%20for%20Excel%20Integrated/bin/Microsoft.Mashup.ScriptDom.DLL
+----------------------------------------
+System.Data
+   גירסת הרכבה: 4.0.0.0
+   גירסת Win32: 4.8.9214.0 built by: NET481REL1LAST_B
+   CodeBase: file:///C:/WINDOWS/Microsoft.Net/assembly/GAC_64/System.Data/v4.0_4.0.0.0__b77a5c561934e089/System.Data.dll
+----------------------------------------
+Microsoft.GeneratedCode
+   גירסת הרכבה: 1.0.0.0
+   גירסת Win32: 4.8.9037.0 built by: NET481REL1
+   CodeBase: file:///C:/WINDOWS/Microsoft.Net/assembly/GAC_MSIL/System.Xml/v4.0_4.0.0.0__b77a5c561934e089/System.Xml.dll
+----------------------------------------
+Microsoft.Mashup.DocumentServices.resources
+   גירסת הרכבה: 1.0.0.0
+   גירסת Win32: 2.119.404.0
+   CodeBase: file:///C:/Program%20Files/Microsoft%20Office/root/Office16/ADDINS/Microsoft%20Power%20Query%20for%20Excel%20Integrated/bin/he/Microsoft.Mashup.DocumentServices.resources.DLL
+----------------------------------------
+System.Transactions
+   גירסת הרכבה: 4.0.0.0
+   גירסת Win32: 4.8.9037.0 built by: NET481REL1
+   CodeBase: file:///C:/WINDOWS/Microsoft.Net/assembly/GAC_64/System.Transactions/v4.0_4.0.0.0__b77a5c561934e089/System.Transactions.dll
+----------------------------------------
+System.EnterpriseServices
+   גירסת הרכבה: 4.0.0.0
+   גירסת Win32: 4.8.9037.0 built by: NET481REL1
+   CodeBase: file:///C:/WINDOWS/Microsoft.Net/assembly/GAC_64/System.EnterpriseServices/v4.0_4.0.0.0__b03f5f7f11d50a3a/System.EnterpriseServices.dll
+----------------------------------------
+Microsoft.GeneratedCode
+   גירסת הרכבה: 1.0.0.0
+   גירסת Win32: 4.8.9037.0 built by: NET481REL1
+   CodeBase: file:///C:/WINDOWS/Microsoft.Net/assembly/GAC_MSIL/System.Xml/v4.0_4.0.0.0__b77a5c561934e089/System.Xml.dll
+----------------------------------------
+Accessibility
+   גירסת הרכבה: 4.0.0.0
+   גירסת Win32: 4.8.9037.0 built by: NET481REL1
+   CodeBase: file:///C:/WINDOWS/Microsoft.Net/assembly/GAC_MSIL/Accessibility/v4.0_4.0.0.0__b03f5f7f11d50a3a/Accessibility.dll
+----------------------------------------
+System.Windows.Forms.resources
+   גירסת הרכבה: 4.0.0.0
+   גירסת Win32: 4.8.4084.0 built by: NET48REL1
+   CodeBase: file:///C:/WINDOWS/Microsoft.Net/assembly/GAC_MSIL/System.Windows.Forms.resources/v4.0_4.0.0.0_he_b77a5c561934e089/System.Windows.Forms.resources.dll
+----------------------------------------
+
+************** איתור באגים בשיטת JIT **************
+כדי להפוך את  just-in-time (JIT) debugging לזמין, the .config יש להגדיר
+בקובץ התצורה של היישום או המחשב (machine.config) את הערך
+ system.windows.forms במקטע jitDebugging.
+כמו כן, יש לבצע ליישום קומפילציה עם  jitdebugging
+זמין.
+
+For לדוגמה:
+
+<configuration>
+    <system.windows.forms jitDebugging="true" />
+</configuration>
+
+כאשר JIT debugging זמין, כל חריג שאינו מטופל
+יישלח אל JIT debugger הרשום במחשב
+במקום שיטופל על-ידי תיבת דו-שיח זו.
+
+
